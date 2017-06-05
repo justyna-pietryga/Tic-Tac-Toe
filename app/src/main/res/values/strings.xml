@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="start_button">Rozpocznij grę</string>
+    <string name="whose_turn">Teraz kolej:</string>
+    <string name="whose_first">Zaczyna krzyżyk</string>
+    <string name="new_round">Nowa runda</string>
+    <string name="alert_back_activity">Czy na pewno chcesz cofnąć? \nGra zakończy się</string>
+    <string name="first_username">Imię pierwszego użytkownika</string>
+    <string name="second_username">Imię drugiego użytkownika</string>
+    <string name="end_of_game_cross">Koniec gry!\nWygrał krzyżyk!</string>
+    <string name="end_of_game_nought">Koniec gry!\nWygrało kółko!</string>
+    <string name="end_of_game_remis">Koniec gry!\nRemis!</string>
+    <string name="round">Runda:</string>
+    <string name="lackOfnamesAllert">Musisz podać imiona graczy</string>
+    <string name="end_button">Zakończ</string>
+    <string name="finish_game_alert">Czy na pewno chcesz zakończyć grę?</string>
+    <string name="reset_names">Wyczyść ustawienia</string>
+
+</resources>
